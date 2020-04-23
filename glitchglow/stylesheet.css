@@ -1,0 +1,32 @@
+Body {
+     Background-color: black;
+     }
+
+
+H1 {
+   Text-align: center;
+   Font-family: <link href="https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap" rel="stylesheet">
+   Font-weight:normal;
+   Text-transform: uppercase;
+   color: #39ff14;
+   }
+
+H2 {
+   color: #39ff14;
+   Text-align: center;
+   }
+
+H3 {
+   color: #39ff14;
+   Text-align: center;
+   }
+
+Ul {
+    Color: #39ff14;
+    Text-decoration: underline;
+}
+
+P {
+  Color: #39ff14;
+  text-Align: center;
+}
